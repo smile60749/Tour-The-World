@@ -1,0 +1,8 @@
+{
+  "name": "socketio-server",
+  "version": "0.0.1",
+  "description": "for socket.io test",
+  "dependencies": {
+    "socket.io": "^1.5.0"
+  }
+}

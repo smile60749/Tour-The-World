@@ -1,0 +1,243 @@
+{
+  "ID": "e60a530d-7f41-470b-a664-f23c92c31a5e",
+  "Version": "2.3.3.0",
+  "Name": "Layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 32,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "unable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "001.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "go.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 139,
+            "Scale9Height": 183,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4932,
+              "ScaleY": 0.4876
+            },
+            "Position": {
+              "X": 877.4504,
+              "Y": 77.2712
+            },
+            "Scale": {
+              "ScaleX": 0.5663,
+              "ScaleY": 0.5555
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.914,
+              "Y": 0.1207
+            },
+            "PreSize": {
+              "X": 0.176,
+              "Y": 0.3203
+            },
+            "LeftMargin": 794.0996,
+            "RightMargin": -3.0996,
+            "TopMargin": 457.6868,
+            "BottomMargin": -22.6868,
+            "Tag": 33,
+            "ActionTag": -2134567832,
+            "Size": {
+              "X": 169.0,
+              "Y": 205.0
+            },
+            "Name": "dice",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "text.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 599.572,
+              "Y": 61.1278
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6246,
+              "Y": 0.0955
+            },
+            "PreSize": {
+              "X": 0.8687,
+              "Y": 0.2109
+            },
+            "LeftMargin": 182.572,
+            "RightMargin": -56.572,
+            "TopMargin": 511.3723,
+            "BottomMargin": -6.3722,
+            "Tag": 114,
+            "ActionTag": -1980015627,
+            "Size": {
+              "X": 834.0,
+              "Y": 135.0
+            },
+            "Name": "text",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 766.4403,
+              "Y": 63.729
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7984,
+              "Y": 0.0996
+            },
+            "PreSize": {
+              "X": 0.0969,
+              "Y": 0.1031
+            },
+            "LeftMargin": 719.9403,
+            "RightMargin": 147.0597,
+            "TopMargin": 543.2709,
+            "BottomMargin": 30.729,
+            "Tag": 115,
+            "ActionTag": 1301414089,
+            "Size": {
+              "X": 93.0,
+              "Y": 66.0
+            },
+            "Name": "txtenter",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "Text Field",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 570.9579,
+              "Y": 66.3299
+            },
+            "Scale": {
+              "ScaleX": 4.4682,
+              "ScaleY": 1.3902
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5947,
+              "Y": 0.1036
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0313
+            },
+            "LeftMargin": 533.4579,
+            "RightMargin": 351.5421,
+            "TopMargin": 563.6701,
+            "BottomMargin": 56.3299,
+            "Tag": 119,
+            "ActionTag": -1221289202,
+            "Size": {
+              "X": 75.0,
+              "Y": 20.0
+            },
+            "Name": "txt",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "001.png",
+        "Default/Sprite.png",
+        "go.png",
+        "text.png",
+        "unable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

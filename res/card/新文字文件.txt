@@ -1,0 +1,26 @@
+1 遙控骰子 dice 6               OK
+2 大革命 bigrevolution3  OK
+3 冬眠卡 snow 4
+4 任意門 AnyDoor 3         BUG
+5 均富卡 equality 2           OK
+6 查封卡 NoHouse 4	      同步
+7 查稅卡 NoMoney 4       OK
+8 飛彈卡 FlyEag 4              OK
+9 烏龜卡 tortoise 2           OK
+10 換地卡 exchange 3
+11 絕對防禦 shield 4
+12 路障卡 Barrier 4           OK
+
+diamant[]   
+tablediamant
+
+
+
+
+0 <= countnum && countnum <= 3 || 42 <= countnum && countnum <= 45 || 50 <= countnum && countnum <= 61
+
+4 <= countnum && countnum <= 8 || 35 <= countnum && countnum <= 41 || 62 <= countnum && countnum <= 64
+
+9 <= countnum && countnum <= 12 || 23 <= countnum && countnum <= 34
+
+13 <= countnum && countnum <= 22 || 46 <= countnum && countnum <= 49

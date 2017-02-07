@@ -1,0 +1,27 @@
+ {
+  "project_type": "javascript",
+
+  "debugMode": 1,
+  "showFPS": true,
+  "frameRate": 60,
+  "id": "gameCanvas",
+  "renderMode": 0,
+  "engineDir": "frameworks/cocos2d-html5",
+
+  "modules": [ "cocos2d", "cocostudio", "chipmunk", "extensions", "external" ],
+  "jsList": [
+     "src/LoginScene.js",
+    "src/gamesc.js",
+    "src/loadres.js",
+    "src/globals.js",
+    "src/background.js",
+    "src/app.js",
+    "src/AnimationLayer.js",
+
+    "src/SelectionScene.js",
+    "src/SocketTestLayer.js",
+    "src/roomlist.js",
+    "src/room.js",
+    "src/roomadd.js"
+  ]
+}

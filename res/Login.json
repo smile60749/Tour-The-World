@@ -1,0 +1,247 @@
+{
+  "ID": "444184c6-b268-45bc-b6da-9c74bf060999",
+  "Version": "2.3.3.0",
+  "Name": "Login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 91,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Login/LI07.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 361.3005
+            },
+            "Scale": {
+              "ScaleX": 1.0661,
+              "ScaleY": 1.1141
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5018
+            },
+            "PreSize": {
+              "X": 0.9391,
+              "Y": 0.8931
+            },
+            "LeftMargin": 39.0,
+            "RightMargin": 39.0,
+            "TopMargin": 37.1995,
+            "BottomMargin": 39.8005,
+            "Tag": 154,
+            "ActionTag": -132312318,
+            "Size": {
+              "X": 1202.0,
+              "Y": 643.0
+            },
+            "Name": "LI07_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Login/fblogin.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 381,
+            "Scale9Height": 69,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 206.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2861
+            },
+            "PreSize": {
+              "X": 0.3211,
+              "Y": 0.1264
+            },
+            "LeftMargin": 434.5,
+            "RightMargin": 434.5,
+            "TopMargin": 468.5,
+            "BottomMargin": 160.5,
+            "Tag": 18,
+            "ActionTag": 1828635106,
+            "Size": {
+              "X": 411.0,
+              "Y": 91.0
+            },
+            "Name": "fb",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "you.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 376.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5222
+            },
+            "PreSize": {
+              "X": 0.4422,
+              "Y": 0.125
+            },
+            "LeftMargin": 357.0,
+            "RightMargin": 357.0,
+            "TopMargin": 299.0,
+            "BottomMargin": 331.0,
+            "Tag": 23,
+            "ActionTag": 1227163805,
+            "Size": {
+              "X": 566.0,
+              "Y": 90.0
+            },
+            "Name": "you_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 552.0001
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7667
+            },
+            "PreSize": {
+              "X": 0.2445,
+              "Y": 0.1431
+            },
+            "LeftMargin": 483.5,
+            "RightMargin": 483.5,
+            "TopMargin": 116.4999,
+            "BottomMargin": 500.5001,
+            "Tag": 24,
+            "ActionTag": 1805219084,
+            "Size": {
+              "X": 313.0,
+              "Y": 103.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "0.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "Login/fblogin.png",
+        "Login/LI07.jpg",
+        "you.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
